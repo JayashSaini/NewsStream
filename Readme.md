@@ -2,6 +2,7 @@
 
 NewsStream is a web application built using Express and Node.js that allows users to search for news articles based on their queries. It utilizes JavaScript for server-side and client-side scripting, along with Bootstrap for responsive design.
 
+## Live Link - [NewsStream](https://newsstream-xkf5.onrender.com/)
 ## Features
 
 - Search for news articles based on user queries
